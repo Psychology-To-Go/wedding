@@ -640,7 +640,7 @@ text-align: left;
         </amp-img></amp-img>
           <div class="author-text">
               <p class="p-author">Patric & Miglena</p>
-              <p class="p-date">We are getting married!</p>
+              <p class="p-date">We are getting married!!</p>
           </div>
       </div>
   </div>
